@@ -613,7 +613,7 @@ background-color: var(--primary-color-dark);
 
 .btn_book{
   position: relative;
-  left: -100px;
+  left: 10px;
   top: -40px;
 }
 
