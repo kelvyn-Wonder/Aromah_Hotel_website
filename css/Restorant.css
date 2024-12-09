@@ -511,6 +511,11 @@ form{
     left: -25rem;
   }
 }
+@media (max-width: 500px) {
+  .delivery_image{
+    display: none;
+  }
+}
 
 
 .section_eatting_place {
